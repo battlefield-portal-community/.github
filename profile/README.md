@@ -17,7 +17,6 @@
   <img src="https://cdn.discordapp.com/attachments/908104736455155762/936262296806752276/Esport.png"  width="50" />
   <img src="https://cdn.discordapp.com/attachments/908104736455155762/936262297091977256/events.png"  width="50" />
   <img src="https://cdn.discordapp.com/attachments/908104736455155762/936262297259745280/featured.png"  width="50" />
-  <img src="https://cdn.discordapp.com/attachments/908104736455155762/936262297259745280/featured.png"  width="50" />
   <img src="https://cdn.discordapp.com/attachments/908104736455155762/936262297477869618/help.png"  width="50" />  
 </p>
 
